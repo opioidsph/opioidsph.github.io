@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Opioids Public Health Association"
-  avatar           : "profile.png"
+  avatar           : "phlogo.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Rennes, France"
   employer         :
