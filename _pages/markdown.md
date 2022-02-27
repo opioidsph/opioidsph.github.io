@@ -11,5 +11,5 @@ redirect_from:
 
 * Basic config options: _config.yml
 
-<video src="https://od.lk/s/MTZfNzcyNzA1MTRf/anim1.mp4" controls="controls" style="max-width: 730px;">
+<video src="https://web.opendrive.com/api/v1/download/file.json/MTZfNzcyNzA1MTRf?inline=1" controls="controls" style="max-width: 730px;">
 </video>
