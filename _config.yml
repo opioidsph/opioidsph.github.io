@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Opioids Public Health Association"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "A French public health organization supporting patients and professionals for a more responsible use of prescription opioids"
   location         : "Rennes, France"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=opioid"
@@ -114,7 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        : "https://en.wikipedia.org/wiki/Opioid"
+  wikipedia        : "Opioid"
 
 
 # Reading Files
