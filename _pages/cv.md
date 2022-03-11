@@ -9,51 +9,77 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Qualified professionals, everywhere in Europe
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+The Opioids Public Health Association is developeing a network of professionnals all over Europe, aiming at providing a reliable insight for opioid prescription in every hospital and every community. These qualified physicians, pharmacists and nurses are at patients' and other professionnals' disposal and can offer guidance, assistance and information on prescription opioids, opioid addiction and opioid-free analgesia.
 
-Work experience
+France
 ======
-* Summer 2015: Research Assistant
+* Physicians
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
+* Pharmacists
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+* Nurses
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+Germany
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Physicians
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+* Pharmacists
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+* Nurses
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+
+Spain
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* Physicians
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+* Pharmacists
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+* Nurses
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+
+Italy
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Physicians
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+* Pharmacists
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+* Nurses
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
