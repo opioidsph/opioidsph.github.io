@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Ressources"
-permalink: /ressources/
+title: "Professionals"
+permalink: /pros/
 author_profile: true
 ---
 
