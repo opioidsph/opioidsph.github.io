@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Poster: Opioid-Free Analgesia"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/analg-poster
+excerpt: 'A printable poster to inform your patients on the various alternatives for opioid-based analgesia and the global opioids crisis.'
+date: 2022-03-08
+venue: 'Opioids Public Health Association'
+paperurl: 'http://academicpages.github.io/files/poster2.pdf'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+A printable poster to inform your patients on the various alternatives for opioid-based analgesia and the global opioids crisis.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download here](http://academicpages.github.io/files/poster2.pdf)
