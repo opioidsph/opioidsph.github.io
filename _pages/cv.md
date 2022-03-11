@@ -11,7 +11,7 @@ redirect_from:
 
 Qualified professionals, everywhere in Europe
 ======
-The Opioids Public Health Association is developeing a network of professionnals all over Europe, aiming at providing a reliable insight for opioid prescription in every hospital and every community. These qualified physicians, pharmacists and nurses are at patients' and other professionnals' disposal and can offer guidance, assistance and information on prescription opioids, opioid addiction and opioid-free analgesia.
+The Opioids Public Health Association is developeing a network of professionals all over Europe, aiming at providing a reliable insight for opioid prescription in every hospital and every community. These qualified physicians, pharmacists and nurses are at patients' and other professionals' disposal and can offer guidance, assistance and information on prescription opioids, opioid addiction and opioid-free analgesia.
 
 France
 ======
