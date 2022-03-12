@@ -16,70 +16,47 @@ The Opioids Public Health Association is developeing a network of professionals 
 France
 ======
 * Physicians
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Hippolyte Cailloux, Ph.D, Service d'Anesthésie, CHU, 35000 Rennes
+  * Alphonsine Berengar, Ph. D, 35 boulevard des Biais, 13000 Marseille
+  * Elodie Doisneau, Ph. D, 21 rue des Bretzel, 67000 Strasbourg
 
 * Pharmacists
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Pharmacie du Fort, 12 rue des Oiseaux, 75000 Paris
+  * Robert Lemaigre, Ph. D, CHU, 15 rue des Malades, 59000 Lille
 
 * Nurses
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Lucile Mossé, 29000 Brest, 0765489565
+  * Jean-Michel Ménard, 51000 Reims, 0698745845
   
 
 Germany
 ======
 * Physicians
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Justus Weidemann, Ph. D, Universitätsklinikum, 40210 Düsseldorf
+  * Cäsar Habich, Universitätsklinikum Charité, 10115 Düsseldorf
 
 * Pharmacists
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Nurses
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
+  * Jonathan Vonhof, Ph. D, Fleming Apotheke, Zwickauer Str. 134, 04279 Leipzig
 
 Spain
 ======
 * Physicians
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Raquel Zapatero, Ph. D, Hospital Universitario Puerta del Mar, Av. Ana de Viya, 21, 11009 Cádiz
 
 * Pharmacists
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Farmacia del la Alfalfa, Pl. de la Alfalfa, 11, 41004 Sevilla
 
 * Nurses
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Pol Villegas, C. Delicias, 20-22-24, 47013 Valladolid
 
 
 Italy
 ======
 * Physicians
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
+  * Andrea Girardi, Ospedale San Martino, Largo Rosanna Benzi, 10, 16132 Genova GE
+  
 * Pharmacists
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Farmacia Checchia All'Anconeta, Campiello de l'Anconeta, 30121 Venezia VE
 
 * Nurses
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Nicoletta Palomba, Via dell'Indipendenza, 61/B, 40126 Bologna BO
