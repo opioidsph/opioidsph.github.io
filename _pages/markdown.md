@@ -21,3 +21,25 @@ For instance, in the US, the Daily Defined Dose of opioid (DDD) is more than 51 
 
 <video src="https://web.opendrive.com/api/v1/download/file.json/MTZfNzcyNzA1MTRf?inline=1" controls="controls" style="max-width: 730px;">
 </video>
+
+## Opioids Addiction
+
+Brad Pills survived a car accident when he was 18 years old. To treat Brad, his Doctor prescribed him different sort of opioids. 
+Like many people, Brad Pills started to take opioids to improve his daily life and reduce his physical pain. His addiction settled down gradually and quietly. He will only be diagnosed very late. 
+Day after day, Brad Pill’s behavior changed. In addition, different signs of dependance became visible : 
+Brad took higher doses than prescribed to intensify their effects 
+Brad continued to take his opioids after the end of his prescription
+His pain is now gone but not his opioids.
+Are you like Brad ? Are you addicted ? 
+
+  * If you can’t stop or reduce your opioids consumption, 
+  * If you need more doses to obtain same effects, 
+  * If you see signs of withdrawal syndrome when you don’t take your medicine 
+  * If you waste time to look for and obtain your pills 
+
+Maybe you are Brad Pills. Maybe you are addicted to opioids. 
+
+It’s serious. But there are solutions. 
+
+<video src="https://web.opendrive.com/api/v1/download/file.json/MTZfNzc5NTc0MDFf?inline=1" controls="controls" style="max-width: 730px;">
+</video>
