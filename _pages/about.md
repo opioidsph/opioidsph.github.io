@@ -14,4 +14,4 @@ We are three french students from the Rennes 1 University, Corentin Choisy, Emma
 
 On this website, you can find useful contacts and references, for both patients and/or professionals. You can also find some short playful movies, explaining some of the main concepts behind opioids, and some posters to print and inform your patients about opioids and the association. The *Articles* section is aimed at informing our followers about the latest news, on many different subjects. Lastly, the *Forum* section allows anyone to speak, ask questions, suggest any idea, send support, in a safe place, and with the possibility of getting answers from professionals.
 
-![Home](https://i.ibb.co/pZr0PJQ/Illustration-sans-titre-3.jpg)
+![Home](https://i.ibb.co/K9nYNCL/Illustration-sans-titre-3-Copie.jpg)
