@@ -14,3 +14,5 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+![Crisis](https://i.ibb.co/446KxRp/Illustration-sans-titre-2.jpg)
