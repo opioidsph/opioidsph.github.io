@@ -2,7 +2,7 @@
 title: "Opioids Alternatives ?"
 collection: teaching
 type: "Anonymous"
-permalink: /teaching/opioids-alternatives
+permalink: /teaching/2015-spring-teaching-2
 venue: "Behaviors & Practices"
 date: 2022-03-01
 location: "City, Country"
